@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](insta1.gif)
+![](insta2.gif)
 
 # Parstagram - Part I
 
